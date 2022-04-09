@@ -1,0 +1,30 @@
+c:\users\lab2_1\documents\visual studio 2013\Projects\PC_KAPAT\PC_KAPAT\bin\Debug\PC_KAPAT.exe.config
+c:\users\lab2_1\documents\visual studio 2013\Projects\PC_KAPAT\PC_KAPAT\bin\Debug\PC_KAPAT.exe
+c:\users\lab2_1\documents\visual studio 2013\Projects\PC_KAPAT\PC_KAPAT\bin\Debug\PC_KAPAT.pdb
+c:\users\lab2_1\documents\visual studio 2013\Projects\PC_KAPAT\PC_KAPAT\obj\Debug\PC_KAPAT.csprojResolveAssemblyReference.cache
+c:\users\lab2_1\documents\visual studio 2013\Projects\PC_KAPAT\PC_KAPAT\obj\Debug\PC_KAPAT.Form1.resources
+c:\users\lab2_1\documents\visual studio 2013\Projects\PC_KAPAT\PC_KAPAT\obj\Debug\PC_KAPAT.Properties.Resources.resources
+c:\users\lab2_1\documents\visual studio 2013\Projects\PC_KAPAT\PC_KAPAT\obj\Debug\PC_KAPAT.csproj.GenerateResource.Cache
+c:\users\lab2_1\documents\visual studio 2013\Projects\PC_KAPAT\PC_KAPAT\obj\Debug\PC_KAPAT.exe
+c:\users\lab2_1\documents\visual studio 2013\Projects\PC_KAPAT\PC_KAPAT\obj\Debug\PC_KAPAT.pdb
+C:\Users\B2_1\Desktop\PC_KAPAT\PC_KAPAT\bin\Debug\PC_KAPAT.exe.config
+C:\Users\B2_1\Desktop\PC_KAPAT\PC_KAPAT\obj\Debug\PC_KAPAT.exe
+C:\Users\B2_1\Desktop\PC_KAPAT\PC_KAPAT\obj\Debug\PC_KAPAT.pdb
+C:\Users\B2_1\Desktop\PC_KAPAT\PC_KAPAT\bin\Debug\PC_KAPAT.exe
+C:\Users\B2_1\Desktop\PC_KAPAT\PC_KAPAT\bin\Debug\PC_KAPAT.pdb
+C:\Users\B2_1\Desktop\PC_KAPAT\PC_KAPAT\obj\Debug\PC_KAPAT.csprojResolveAssemblyReference.cache
+C:\Users\B2_1\Desktop\PC_KAPAT\PC_KAPAT\obj\Debug\PC_KAPAT.Form1.resources
+C:\Users\B2_1\Desktop\PC_KAPAT\PC_KAPAT\obj\Debug\PC_KAPAT.Properties.Resources.resources
+C:\Users\B2_1\Desktop\PC_KAPAT\PC_KAPAT\obj\Debug\PC_KAPAT.csproj.GenerateResource.Cache
+D:\PC İŞLEMLERİ SON\PC_KAPAT2\PC_KAPAT\bin\Debug\PC_KAPAT.exe.config
+D:\PC İŞLEMLERİ SON\PC_KAPAT2\PC_KAPAT\obj\Debug\PC_KAPAT.exe
+D:\PC İŞLEMLERİ SON\PC_KAPAT2\PC_KAPAT\obj\Debug\PC_KAPAT.pdb
+C:\Users\B2_17\Desktop\PC_KAPAT2\PC_KAPAT\bin\Debug\PC_KAPAT.exe.config
+C:\Users\B2_17\Desktop\PC_KAPAT2\PC_KAPAT\obj\Debug\PC_KAPAT.exe
+C:\Users\B2_17\Desktop\PC_KAPAT2\PC_KAPAT\obj\Debug\PC_KAPAT.pdb
+C:\Users\B2_17\Desktop\PC_KAPAT2\PC_KAPAT\obj\Debug\PC_KAPAT.csprojResolveAssemblyReference.cache
+C:\Users\B2_17\Desktop\PC_KAPAT2\PC_KAPAT\obj\Debug\PC_KAPAT.Form1.resources
+C:\Users\B2_17\Desktop\PC_KAPAT2\PC_KAPAT\obj\Debug\PC_KAPAT.Properties.Resources.resources
+C:\Users\B2_17\Desktop\PC_KAPAT2\PC_KAPAT\obj\Debug\PC_KAPAT.csproj.GenerateResource.Cache
+C:\Users\B2_17\Desktop\PC_KAPAT2\PC_KAPAT\bin\Debug\PC_KAPAT.exe
+C:\Users\B2_17\Desktop\PC_KAPAT2\PC_KAPAT\bin\Debug\PC_KAPAT.pdb
